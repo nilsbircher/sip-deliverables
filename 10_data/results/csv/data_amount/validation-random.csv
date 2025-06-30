@@ -1,0 +1,4 @@
+model,precision,recall,mAP50,mAP50-95,fitness,F1
+data_subset-11%__enable_threshold-False__threshold-0__split_ratio-80__epochs-500__model_name-yolo11n__optimizer-auto__augment-True__run_number-.pt,0.5650049994888854,0.4406779661016949,0.4719877764720752,0.2794039660808219,0.29866234711994727,0.4951565503863065
+data_subset-33%__enable_threshold-False__threshold-0__split_ratio-80__epochs-500__model_name-yolo11n__optimizer-auto__augment-True__run_number-.pt,0.4831353060323757,0.6440677966101694,0.5853807134922085,0.3649324276237932,0.3869772562106347,0.5521132638676384
+data_subset-100%__enable_threshold-False__threshold-0__split_ratio-80__epochs-500__model_name-yolo11n__optimizer-auto__augment-True__run_number-3.pt,0.5932203389830508,0.5932203389830508,0.5918729137347868,0.33813405029681287,0.36350793664061026,0.5932203389830508

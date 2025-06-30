@@ -1,0 +1,4 @@
+path: /workspaces/sip-run/validation-random
+train: /workspaces/sip-run/validation-random/images/train
+val: /workspaces/sip-run/validation-random/images
+names: ['tree']

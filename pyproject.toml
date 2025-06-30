@@ -1,0 +1,16 @@
+[project]
+name = "sip-deliverables"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "imagecodecs>=2025.3.30",
+    "pillow>=11.2.1",
+    "pyproj>=3.7.1",
+    "tifffile>=2025.6.1",
+    "torch>=2.7.0",
+    "torchmetrics>=1.7.3",
+    "torchvision>=0.22.0",
+    "ultralytics>=8.3.149",
+]

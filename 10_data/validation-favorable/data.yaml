@@ -1,0 +1,4 @@
+path: /workspaces/sip-run/validation-favorable
+train: /workspaces/sip-run/validation-favorable/images/train
+val: /workspaces/sip-run/validation-favorable/images
+names: ['tree']

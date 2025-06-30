@@ -1,0 +1,4 @@
+path: /workspaces/sip-deliverables/10_data/
+train: /workspaces/sip-deliverables/10_data/images/train
+val: /workspaces/sip-deliverables/10_data/images
+names: ['tree']

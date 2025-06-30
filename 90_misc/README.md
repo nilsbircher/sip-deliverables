@@ -1,0 +1,1 @@
+The scripts in this directory are non-executable snippets extracted from a larger system orchestrated by Apache Airflow.

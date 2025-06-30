@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Train ResNet",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/1_training/train_resnet.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run file",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

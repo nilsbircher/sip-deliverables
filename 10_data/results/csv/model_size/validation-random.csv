@@ -1,0 +1,2 @@
+model,precision,recall,mAP50,mAP50-95,fitness,F1
+data_subset-1__enable_threshold-False__threshold-0__split_ratio-80__epochs-500__model_name-yolo11m__optimizer-auto__augment-True__run_number-18.pt,0.5961538461538461,0.5254237288135594,0.5702060470494137,0.3638617372132237,0.3844961681968427,0.5585585585585586
